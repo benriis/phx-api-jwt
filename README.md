@@ -4,7 +4,7 @@ Starter template for phoenix api server with JWT authentication, using phoenix v
 
 todo list:
 
-- [x] Add test
+- [ ] Add test
 
 To start your Phoenix server:
 
